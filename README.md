@@ -6,7 +6,6 @@ This repo will collect several algorithms related to the Machine Learning Regres
 - [Ridge Regression](https://github.com/Tingting0618/Ridge_Regression)
 - [Lasso Regression](https://github.com/Tingting0618/Lasso_Regression_ElasticNet)
 - [Elastic Net](https://github.com/Tingting0618/Lasso_Regression_ElasticNet)
-- [Logistic Regression](https://github.com/Tingting0618/Logistic_Regression)
 
 
 
