@@ -4,6 +4,9 @@ This repo will collect several algorithms related to the Machine Learning Regres
 - [Gradient Descent Regressor](https://github.com/Tingting0618/Gradient_Descent_Regressor)
 - [Polynomial Regression](https://github.com/Tingting0618/Polynomial_Regression)
 - [Ridge Regression](https://github.com/Tingting0618/Ridge_Regression)
+- [Lasso Regression](https://github.com/Tingting0618/Lasso_Regression_ElasticNet)
+- [Elastic Net](https://github.com/Tingting0618/Lasso_Regression_ElasticNet)
+
 
 
 ## Learn More
