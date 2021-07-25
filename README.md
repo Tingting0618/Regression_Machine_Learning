@@ -12,4 +12,4 @@ This repo will collect several algorithms related to the Machine Learning Regres
 
 ## Learn More
 
-You can learn more in the [Tingting Duan's Project Portfolio](https://tingting0618.github.io).
+For more information, please check out the [Project Portfolio](https://tingting0618.github.io).
